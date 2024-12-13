@@ -379,7 +379,7 @@ table th {
 .navbar.affix {
   position: fixed !important;
   padding-top: 0;
-  background-image: url(../img/banner/bg.png);
+  background-image: url(../img/banner-grid/bg.jpg);
   -webkit-box-shadow: 1px 0 10px rgba(0, 0, 0, 0.1);
   box-shadow: 1px 0 10px rgba(0, 0, 0, 0.1);
 }
