@@ -649,7 +649,7 @@ footer:after {
 .banner {
   height: 100vh;
   padding-top: 135px;
-  background-image: url(../img/banner/bg.png);
+  background-image: url(../img/banner-grid/bg.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
